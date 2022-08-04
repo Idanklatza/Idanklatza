@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b0e2d0&height=225&section=header&text=Idan%20Klatza&fontSize=35&fontColor=c241f26&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=667292&height=225&section=header&text=Idan%20Klatza&fontSize=35&fontColor=ffffff&fontAlignY=32)
 
 ## About me
 - 💻 Full Stack Developer <br>
@@ -12,4 +12,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/idanklatza" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/idanklatza" height="30" width="40" /></a>
 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=ada397&section=footer)
+
+      
+          
