@@ -2,7 +2,7 @@
 
 ## About me
 - 💻 Full Stack Developer <br>
-- 🎓 3rd year Computer Science student
+- 🎓 Computer Science graduate and a Full Stack intern <br>
 - 👨‍💻 Hardworking person, ambitious, self-motivated and a great team player
 
 
